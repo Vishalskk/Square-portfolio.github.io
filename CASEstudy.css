@@ -1,0 +1,55 @@
+.fourside{
+    position: relative;
+    left: 20px;
+    bottom: 4px;
+}
+@media screen and (min-width: 320px) and (max-width:1350px) {
+    .fourside{
+        /* position: relative; */
+        left: 57px;
+    }
+}
+
+.phone{
+    background-image: url(../BS__PROJECT/images/photo-61.jpg);
+    background-size: cover;
+    background-position:center;
+    
+    /* height: 100%; */
+    /* width: 100%; */
+}
+@media screen and (min-width: 320px) and (max-width:1350px) {
+    .Designanthology{
+       position: relative;
+       right: 70px;
+    }
+}
+@media screen and (min-width: 320px) and (max-width:1350px) {
+    .Lbookh{
+       width: 100%;
+    }
+    .dilninja img{
+        height: 30px;
+        width: 50px;
+    }
+}
+/* <!-- ---------------------2nd---last-----footer--------------------------------------- --> */
+.last2ndfooter{
+    background-color: #232323;
+    }
+    .foursid img{
+        height: 50px;
+        width: 130px;
+        }
+          
+    @media screen and (min-width: 320px) and (max-width:1350px) {
+        .FOURSIDE{
+            position: relative;
+            left: 160px;
+        }
+    }
+    /* <!-- ----------------------------------------footer------------------------------------ --> */
+    footer{
+     padding: 10px;
+        background-color: #232323;
+    }

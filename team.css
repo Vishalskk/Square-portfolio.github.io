@@ -1,0 +1,54 @@
+.fourside{
+    position: relative;
+    left: 20px;
+    bottom: 4px;
+}
+@media screen and (min-width: 320px) and (max-width:1350px) {
+    .fourside{
+        /* position: relative; */
+        left: 57px;
+    }
+}
+.Squareconf{
+    /* height: 650px; */
+    width: 100%;
+    background-color: rgb(36, 9, 36);
+    background-image: url(../BS__PROJECT/images/photo-08.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.Meettheteam{
+    /* margin-left: 230px; */
+    /* margin-top: 200px; */
+    /* padding-top: 210px; */
+    position: relative;
+    top: 175px;
+}
+/* -------------- */
+@media screen and (min-width: 320px) and (max-width:1350px) {
+    .quoten{
+        width: 100%;
+        background: #000;
+    }
+}
+
+/* <!-- ------------------------------------Our leadership team-----------------------> */
+.OLteam img{
+    height: 80%;
+    width: 100%;
+}
+/* <!-- ---------------------------1M-------------15M-------------------20k+---------------------------------------- --> */
+
+/* <!-- ---------------------2nd---last-----footer--------------------------------------- --> */
+.last2ndfooter{
+    background-color: #232323;
+    }
+.foursid img{
+height: 50px;
+width: 130px;
+}
+    /* <!-- ----------------------------------------footer------------------------------------ --> */
+    footer{
+     padding: 10px;
+        background-color: #232323;
+    }

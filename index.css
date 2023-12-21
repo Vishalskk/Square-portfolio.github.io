@@ -1,0 +1,167 @@
+.fourside{
+    position: relative;
+    left: 20px;
+    bottom: 4px;
+}
+@media screen and (min-width: 320px) and (max-width:1350px) {
+    .fourside{
+        /* position: relative; */
+        left: 57px;
+    }
+}
+/* @media screen and (min-width: 320px) and (max-width:1350px) {
+    .skyuURe{
+        width: 1170px;
+    }
+} */
+/* <!-- -----------------The beauty of---------------------------------------- --> */
+.Thebeautyof a{
+    font-size: 15px;
+    width: 40%;
+    height: 50px;
+}
+.kurshi{
+    background-image: url(../BS__PROJECT/images/photo-94.jpg);
+background-position: center;
+background-size: cover;
+}
+/* <!-- -------------------Landing pages-------------------> */
+.Landing{
+    margin-top: 200px;
+}
+.LANDimg img{
+    /* height: 100%; */
+    width: 100%;
+}
+.landingone{
+    margin-top: 100px;
+}
+/* @media screen and (min-width: 320px) and (max-width:1350px) {
+    .LPages{
+        margin-top: 150px;
+    }
+} */
+/* <!-- -----------------Not just for developers---------------------------- --> */
+.NOTJUST{
+    background-color: #232323;
+    margin-top: 190px;
+}
+/* <!-- ---------------------Secondary pages---------------------------------- --> */
+.Secondary{
+    margin-top: 150px;
+}
+/* .ABOUT{
+    position: relative;
+    left: 100px;
+    top: 120px;
+    width: 1200px;
+} */
+.pawan img{
+    height: 35px;
+    width: 50px;
+}
+.aagepiche{
+    position: relative; 
+    top: 20px;
+}
+.pawan1{
+    margin-left: 2050px;
+}
+.pawan2{
+    margin-left: 70px;
+}
+@media screen and (min-width: 320px) and (max-width:1350px) {
+    .pawan1{
+    margin-left: 400px;
+    }
+}
+
+/* --------------------------------Main features-------------------------------- */
+.Mainfeatures{
+margin-top: 200px;
+}
+/* <!-- ---------------------Nunjucks and HTML files included--------------------- --> */
+.nunjucks img{
+    height: 100%;
+    width: 100%;
+}
+.pay{
+    background-color: red;
+    /* display: flex; */
+}
+/* <!-- -------------------------Have just started working with SQUARE -------------------------------------- --> */
+.havejust{
+    background-color: #232323;
+}
+.startedworking{
+    /* width: 750px; */
+    /* text-align:start; */
+    font-style: italic;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    margin: auto;
+    padding-top: 100px;
+}
+.withSQUARE{
+    padding-bottom: 100px;
+    color: #636060;
+}
+/* <!-- --------------------Build tools and documentation---------------------------- --> */
+.Build{
+    padding-top: 150px;
+}
+.tools{
+    width: 610px;
+}
+@media screen and (min-width: 320px) and (max-width:1350px) {
+    .tools{
+       width: 300px;
+    }
+}
+.npminstall{
+    /* height: 400px; */
+    width: 500px;
+    background-color: #232323;
+}
+@media screen and (min-width: 320px) and (max-width:1350px) {
+    .npminstall{
+       width: 300px;
+    }
+}
+.anddocumentation{
+    padding-bottom: 150px;
+
+}
+/* @media screen and (min-width: 320px) and (max-width:1350px) {
+    .paap{
+       width: 295px;
+       background-color: red;
+    }
+} */
+/* <!-- ----------------------Start your new project with Square------------------------------------------ --> */
+
+
+
+/* <!-- ---------------------2nd---last-----footer--------------------------------------- --> */
+.last2ndfooter{
+background-color: #232323;
+}
+.foursid img{
+    height: 50px;
+    width: 130px;
+    }
+      
+@media screen and (min-width: 320px) and (max-width:1350px) {
+    .FOURSIDE{
+        position: relative;
+        left: 160px;
+    }
+}
+/* <!-- ----------------------------------------footer------------------------------------ --> */
+footer{
+ padding: 10px;
+    background-color: #232323;
+}
+.futor{
+    font-size: 12px;
+    margin-top: 5px;
+}
