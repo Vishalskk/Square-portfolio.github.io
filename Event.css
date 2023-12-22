@@ -13,13 +13,10 @@
     /* height: 650px; */
     width: 100%;
     background-color: rgb(36, 9, 36);
-    background-image: url(../BS__PROJECT/images/photo-59.jpg);
+    background-image: url(images/photo-59.jpg);
     background-size: cover;
 }
-.Squareconf2{
-    /* margin-left: 230px; */
-    /* margin-top: 100px; */
-}
+
 
 .pawan img{
     height: 35px;
@@ -62,7 +59,7 @@
 }
 /* <!-- -----------------------------Venue--------------------------------------------------------------------- --> */
 .Venue{
-    background-image: url(../BS__PROJECT/images/photo-60.jpg);
+    background-image: url(images/photo-60.jpg);
     background-size: cover;
      background-position:bottom;
      padding: 200px;
